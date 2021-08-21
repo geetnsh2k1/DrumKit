@@ -1,13 +1,23 @@
 body {
     text-align: center;
     background-color: #283149;
+    padding: 5%;
+    padding-top: 0%;
+    overflow: hidden;
   }
+
+  .set{
+    display: grid;
+    grid-template-columns: auto auto auto;
+ }
   
   h1 {
     font-size: 5rem;
     color: #DBEDF3;
     font-family: "Arvo", cursive;
     text-shadow: 3px 0 #DA0463;
+    margin-top: 0;
+    margin-bottom: 1%;
   }
   
   footer {
@@ -16,35 +26,31 @@ body {
   }
   
   .w {
-      background-image: url(./assets/img/crash.png);
+      background-image: url(./crash.png);
   }
   
   .a {
-      background-image: url(.assets/img/kick.png);
+      background-image: url(./kick.png);
   }
   
   .s {
-      background-image: url(./assets/img/snare.png);
+      background-image: url(./snare.png);
   }
   
   .d {
-      background-image: url(.assets/img/tom1.png); 
+      background-image: url(./tom1.png); 
   }
   
   .j {
-    background-image: url(.assets/img/tom2.png);
+    background-image: url(./tom2.png);
   }
   
   .k {
-    background-image: url(.assets/img/tom3.png);
+    background-image: url(./tom3.png);
   }
   
   .l {
-    background-image: url(.assets/img/tom4.png);
-  }
-  
-  .set {
-    margin: 10% auto;
+    background-image: url(./tom4.png);
   }
   
   .game-over {
@@ -77,10 +83,4 @@ body {
     text-align: center;
     margin: 10px;
     background-color: white;
-  }
-
-  .set{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
   }
