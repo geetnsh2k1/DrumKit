@@ -1,6 +1,6 @@
 # DrumKit
 
-> Basic drum with JavaScript, HTML and CSS.
+> Basic drum with JavaScript, HTML and CSS. Check out the website https://geetnsh2k1.github.io/DrumKit/
 
 ## Preview
 
