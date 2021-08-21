@@ -26,31 +26,31 @@ body {
   }
   
   .w {
-      background-image: url(./crash.png);
+      background-image: url(../img/crash.png);
   }
   
   .a {
-      background-image: url(./kick.png);
+      background-image: url(../img/kick.png);
   }
   
   .s {
-      background-image: url(./snare.png);
+      background-image: url(../img/snare.png);
   }
   
   .d {
-      background-image: url(./tom1.png); 
+      background-image: url(../img/tom1.png); 
   }
   
   .j {
-    background-image: url(./tom2.png);
+    background-image: url(../img/tom2.png);
   }
   
   .k {
-    background-image: url(./tom3.png);
+    background-image: url(../img/tom3.png);
   }
   
   .l {
-    background-image: url(./tom4.png);
+    background-image: url(../img/tom4.png);
   }
   
   .game-over {
